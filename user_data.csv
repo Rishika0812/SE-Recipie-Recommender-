@@ -1,0 +1,3 @@
+username,password,favorite_cuisine,dietary_restrictions,preferred_ingredients,ingredients_to_avoid,cooking_skill,favorite_meal,spice_level,cooking_time_preference
+Rishika,Rishika,Indian,Vegetarian,"e.g., chicken, rice, vegetables","e.g., nuts, shellfish",Beginner,Breakfast,Mild,Quick (<20 mins)
+Samarth,Samarth,Italian,None,"chicken, rice, vegetables","nuts, shellfish",Beginner,Snacks,Mild,Quick (<20 mins)
